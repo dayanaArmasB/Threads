@@ -1,0 +1,11 @@
+C:\Users\dyarm\Desktop\clase3\clase3\bin\Debug\clase3.exe.config
+C:\Users\dyarm\Desktop\clase3\clase3\bin\Debug\clase3.exe
+C:\Users\dyarm\Desktop\clase3\clase3\bin\Debug\clase3.pdb
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.csproj.AssemblyReference.cache
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.Form1.resources
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.Properties.Resources.resources
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.csproj.GenerateResource.cache
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.csproj.CoreCompileInputs.cache
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.exe
+C:\Users\dyarm\Desktop\clase3\clase3\obj\Debug\clase3.pdb
